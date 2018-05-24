@@ -1,0 +1,60 @@
+{
+	"info": {
+		"_postman_id": "28d1e740-691f-4828-b028-2f253e156752",
+		"name": "Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test REST",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\"Pazmino,Luis,Male,Black,09/05/1976\""
+				},
+				"url": {
+					"raw": "http://localhost:53185/api/records",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53185",
+					"path": [
+						"api",
+						"records"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Test REST GET",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "http://localhost:53185/api/records/birth",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53185",
+					"path": [
+						"api",
+						"records",
+						"birth"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
