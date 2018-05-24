@@ -1,0 +1,6 @@
+C:\Projects\Luis\WebAPI\RecordCollection\RecordCollection\bin\Debug\RecordCollection.exe.config
+C:\Projects\Luis\WebAPI\RecordCollection\RecordCollection\bin\Debug\RecordCollection.exe
+C:\Projects\Luis\WebAPI\RecordCollection\RecordCollection\bin\Debug\RecordCollection.pdb
+C:\Projects\Luis\WebAPI\RecordCollection\RecordCollection\obj\Debug\RecordCollection.exe
+C:\Projects\Luis\WebAPI\RecordCollection\RecordCollection\obj\Debug\RecordCollection.pdb
+C:\Projects\Luis\WebAPI\RecordCollection\RecordCollection\obj\Debug\RecordCollection.csprojResolveAssemblyReference.cache
